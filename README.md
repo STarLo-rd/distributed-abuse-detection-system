@@ -366,14 +366,6 @@ Pre-built Grafana dashboards for:
 - Latency: P95 < 100ms
 - ML inference: < 50ms per request
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Run quality checks
-6. Submit a pull request
 
 ### Development Guidelines
 
@@ -382,26 +374,4 @@ Pre-built Grafana dashboards for:
 - Use conventional commits
 - Update documentation
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- 📧 Email: support@yourcompany.com
-- 📱 Slack: #abuse-detection-support
-- 🐛 Issues: GitHub Issues
-- 📖 Docs: [Documentation Site](https://docs.yourcompany.com)
-
-## 🗺️ Roadmap
-
-- [ ] Video content moderation
-- [ ] Real-time dashboard
-- [ ] A/B testing for ML models
-- [ ] Multi-language support
-- [ ] Advanced analytics
-- [ ] Mobile SDKs
-
 ---
-
-Built with ❤️ for a safer internet. 
